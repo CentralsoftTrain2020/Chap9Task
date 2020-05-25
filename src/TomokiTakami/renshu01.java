@@ -1,4 +1,4 @@
-package src.TomokiTakami;
+package TomokiTakami;
 
 public class renshu01 {
 

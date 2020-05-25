@@ -1,3 +1,5 @@
+package TomokiTakami;
+
 
 public class Hero {
 	String name;
