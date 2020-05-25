@@ -12,4 +12,7 @@ public class Thief {
 	public Thief(String name) {
 		this(name,40,5);
 	}
+	/*
+	
+	 */
 }
