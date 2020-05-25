@@ -1,3 +1,5 @@
+package TomokiTakami;
+
 
 public class Wizard {
 	String name;
